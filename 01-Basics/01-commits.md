@@ -1,6 +1,8 @@
-# Git: Commits
+# Git: Basics
 
 </br>
+
+## Commits
 
 A **commit** in a git repository records a snapshot of all (tracked) files in a directory. Think of it like how you copy & paste things from one location to another.
 
