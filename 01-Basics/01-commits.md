@@ -10,6 +10,6 @@ Git maintains a history of all changes that have ever been made to a repository.
 
 </br>
 
-![branching](../public/commit-chain.png)
+![commit chain](../public/commit-chain.png)
 
 </br>
