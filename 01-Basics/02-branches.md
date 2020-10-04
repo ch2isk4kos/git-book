@@ -54,3 +54,21 @@ From the terminal under the `main` branch, run the following command:
 ### 2. [Git Rebase](<https://git-scm.com/book/en/v2/Git-Branching-Rebasing>)
 
 The second way to merge branches is by what is referred to as **Git Rebase**.
+
+With rebasing, you can take the patch of the change from a separate branch and reapply it on top of its parent.
+
+With the `rebase` command, you can take all the changes that were committed on one branch and replay them on a different branch.
+
+![rebase example](../public/rebase1.png)
+
+</br>
+
+![rebase example](../public/rebase2.png)
+
+</br>
+
+![rebase example](../public/rebase3.png)
+
+</br>
+
+![rebase example](../public/rebase4.png)
