@@ -23,3 +23,9 @@ Git maintains a history of all changes that have ever been made to a repository.
 **HEAD** is the name which refers to a currently checked out commit -- essentially the commit you're working on top of.
 
 HEAD points to the most recent commit reflected in the working tree. Generally, HEAD points to a branch name and when you commit, the status of that branch is changed which is visible through the HEAD.
+
+</br>
+
+### Detaching HEAD
+
+</br>
